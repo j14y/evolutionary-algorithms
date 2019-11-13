@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<pso>
+    <particles>20</particles>
+    <inertia>1.0</inertia>
+    <c1>1.8</c1>
+    <c2>1.8</c2>
+    <delta>1.0</delta>
+    <vmin>-3.0</vmin>
+    <vmax>3.0</vmax>
+</pso>

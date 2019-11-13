@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<ga>
+    <elitismratio>1.0</elitismratio>
+    <crossoverratio>0.8</crossoverratio>
+    <mutationratio>0.01</mutationratio>
+</ga>

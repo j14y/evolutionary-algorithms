@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="US-ASCII" ?>
+<sa>
+    <maxtemp>10000.0</maxtemp>
+    <mintemp>1.0</mintemp>
+    <alpha>0.003</alpha>
+</sa>
