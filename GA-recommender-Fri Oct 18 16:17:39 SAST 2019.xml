@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE pso SYSTEM "roles.dtd">
+<pso>
+    <elitismratio>1.0</elitismratio>
+    <crossoverratio>0.8781180969884397</crossoverratio>
+    <mutationratio>0.002827396082662681</mutationratio>
+</pso>

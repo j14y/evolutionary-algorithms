@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE pso SYSTEM "roles.dtd">
+<pso>
+    <particles>24</particles>
+    <inertia>2.3194061403153756</inertia>
+    <c1>3.5414062708252283</c1>
+    <c2>2.840851335451128</c2>
+    <delta>3.298686179747322</delta>
+    <vmax>4.287755234209633</vmax>
+    <vmin>-4.287755234209633</vmin>
+</pso>

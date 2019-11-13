@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE sa SYSTEM "roles.dtd">
+<sa>
+    <maxtemp>1.0</maxtemp>
+    <mintemp>0.8</mintemp>
+    <alpha>0.02</alpha>
+</sa>

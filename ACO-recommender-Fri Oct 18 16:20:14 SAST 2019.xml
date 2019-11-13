@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE aco SYSTEM "roles.dtd">
+<aco>
+    <decayfactor>0.03398227770734733</decayfactor>
+    <numants>15</numants>
+    <initpheromone>5.722881288849253E-4</initpheromone>
+    <alphaaco>3</alphaaco>
+    <betaaco>1</betaaco>
+</aco>
